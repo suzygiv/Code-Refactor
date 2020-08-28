@@ -41,15 +41,6 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 18px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -73,6 +64,15 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 18px;
 }
 
 .search-engine-optimization {
